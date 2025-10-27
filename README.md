@@ -1,5 +1,7 @@
 <div align="center">
-  ### 🧬 Predicting DNA Binding Proteins with Machine Learning & Deep Learning
+  
+# 🧬 Predicting DNA Binding Proteins with Machine Learning & Deep Learning
+
 </div>
 
 This project investigates the classification of **DNA-binding proteins (DBPs)** using classical machine learning and deep learning models. DBPs are crucial to processes like transcription and DNA repair, and accurately identifying them has implications in **drug design, bioinformatics, and molecular biology**.
