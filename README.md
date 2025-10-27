@@ -27,7 +27,7 @@ We compare several supervised learning models—Logistic Regression, k-Nearest N
   - Sequence length standardized to 1500
   - Dropout and ReLU activation used to prevent overfitting
 
-## 📊 Results
+## 📊 Result Overview
 
 | Model              | Accuracy | Sensitivity | Specificity | MCC   |
 |-------------------|----------|-------------|-------------|--------|
@@ -39,5 +39,19 @@ We compare several supervised learning models—Logistic Regression, k-Nearest N
 - **XGBoost** had the highest MCC (0.23) and best balance overall
 - **kNN** achieved strong specificity but weak sensitivity
 - **DL model** underperformed due to noise and overfitting risk
+
+
+## 📌 Key Learnings
+- Sequence-based classification is viable using simple k-mer representations
+- XGBoost performs robustly even on imbalanced sequence datasets
+- Deep learning requires more tuning and data volume to generalize well in this context
+
+## 👥 Contributors
+- Ryan Phua Wei Jie  
+- Noel Teo Yu Hong  
+- Lucius Khor Zhe Yi  
+- Del Mundo Nino Hubert Atienza
+
+---
 
 
