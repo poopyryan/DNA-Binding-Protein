@@ -40,14 +40,4 @@ We compare several supervised learning models—Logistic Regression, k-Nearest N
 - **kNN** achieved strong specificity but weak sensitivity
 - **DL model** underperformed due to noise and overfitting risk
 
-## 📁 Repository Contents
-DNA-Binding-Protein-Classification
-├── Logistic Regression.ipynb
-├── kNN.ipynb
-├── XGBoost.ipynb
-├── Deep Learning.ipynb
-├── feature_extraction.py
-├── Train.csv
-├── Test.csv
-└── Project Report.pdf
 
