@@ -42,13 +42,12 @@ We compare several supervised learning models—Logistic Regression, k-Nearest N
 
 ## 📁 Repository Contents
 DNA-Binding-Protein-Classification
-├── data
-├──── Train.csv / Test.csv
-├── code
-├──── Logistic Regression.ipynb
-├──── kNN.ipynb
-├────XGBoost.ipynb
-├──── Deep Learning.ipynb
-├────feature_extraction.py
+├── Logistic Regression.ipynb
+├── kNN.ipynb
+├── XGBoost.ipynb
+├── Deep Learning.ipynb
+├── feature_extraction.py
+├── Train.csv
+├── Test.csv
 └── Project Report.pdf
 
